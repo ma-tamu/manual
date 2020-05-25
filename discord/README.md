@@ -21,8 +21,10 @@
 
 ![chat](img/pc/setting-3.png)
 
+
 クリックするとボイスチャットに参加することができます。
 ![chat-1](img/pc/chat-2.png)
+
 
 **通話中**になっていればOKです。
 ![chat-2](img/pc/chat-3.png)
