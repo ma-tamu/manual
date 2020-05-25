@@ -23,10 +23,12 @@
 
 
 クリックするとボイスチャットに参加することができます。
+
 ![chat-1](img/pc/chat-2.png)
 
 
 **通話中**になっていればOKです。
+
 ![chat-2](img/pc/chat-3.png)
 ***
 ### スマホ編(Andorid, iphone)
