@@ -10,8 +10,9 @@
 ### 画面の説明
 ### PC編(Windows, Mac, Linux)
 ![discord-app-description](img/pc/discord-app-description.png)
-
+***
 ### スマホ編(Andorid, iphone)
+###### そのうち作る
 
 ---
 ## ボイスチャットのはじめ方
@@ -20,7 +21,14 @@
 
 ![chat](img/pc/setting-3.png)
 
+クリックするとボイスチャットに参加することができます。
+![chat-1](img/pc/chat-2.png)
+
+**通話中**になっていればOKです。
+![chat-2](img/pc/chat-3.png)
+***
 ### スマホ編(Andorid, iphone)
+###### そのうち作る
 
 ---
 ## 画面共有
